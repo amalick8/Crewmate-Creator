@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 Live Demo
-🎯 **Live Site:** [https://github.com/amalick8/Crewmate-Creator.git](crewmate-creator-9wffrrqnl-ammars-projects-e5efe593.vercel.app)
+🎯 [Live Site](crewmate-creator-9wffrrqnl-ammars-projects-e5efe593.vercel.app)
 
 🖼️ **GIF Walkthrough:**  
 ![App Demo](./demo.gif)
