@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 Live Demo
-🎯 [Live Site](crewmate-creator-9wffrrqnl-ammars-projects-e5efe593.vercel.app)
+🎯 [Live Site](https://crewmate-creator-9wffrrqnl-ammars-projects-e5efe593.vercel.app/)
 
 🖼️ **GIF Walkthrough:**  
 ![App Demo](./demo.gif)
