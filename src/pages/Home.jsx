@@ -2,7 +2,13 @@ import { Link } from 'react-router-dom'
 
 function Home() {
   return (
-    <div>
+    <div style={{ 
+      display: 'flex', 
+      flexDirection: 'column', 
+      alignItems: 'center', 
+      justifyContent: 'center',
+      minHeight: '60vh'
+    }}>
       <h1>Welcome to Crewmate Creator!</h1>
       <p>Build your dream team of crewmates!</p>
       <div style={{ marginTop: '20px' }}>
